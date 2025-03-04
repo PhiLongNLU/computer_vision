@@ -1,4 +1,3 @@
-import numpy as np
 ##pip install opencv-python
 import cv2 as cv
 
